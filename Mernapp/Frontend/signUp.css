@@ -45,3 +45,10 @@ input[type=submit]:hover {
     color: #3168FF;
     border: 1px solid #3168FF;
 }
+
+.logo{
+    width: 20%;
+    position:absolute;
+    top: 0%;
+    right: 0%;
+}
